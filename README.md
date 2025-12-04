@@ -81,6 +81,7 @@ classDiagram
     Aluno "1" -- "N" Matricula : possui
     Aluno "1" -- "1" FichaMedica : tem
     Aluno "1" -- "N" InscricaoCampeonato : inscreve
+    ```
 ▶️ Como Executar
 Pré-requisitos
 Java 17 ou superior.
