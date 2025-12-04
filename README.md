@@ -1,17 +1,3 @@
-Com certeza, Lorraine. Aqui está o arquivo completo.
-
-Fiz uma limpeza geral:
-
-Corrigi o erro do Diagrama (fechei as aspas que faltavam).
-
-Formatei os JSONs (coloquei caixas coloridas para ficar legível).
-
-Arrumei os títulos (agora o GitHub vai reconhecer o tamanho da fonte).
-
-Pode copiar tudinho abaixo e colar no seu README.md substituindo o que está lá:
-
-Markdown
-
 # ⚽ Backend - Sistema de Gerenciamento de Escolinha de Futebol
 
 Este projeto consiste em uma API RESTful desenvolvida com Spring Boot para o gerenciamento administrativo e pedagógico de uma escolinha de futebol. O sistema permite o controle de alunos, matrículas, turmas, professores e campeonatos, com acesso seguro via autenticação JWT.
