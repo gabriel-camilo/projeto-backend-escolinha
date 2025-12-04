@@ -1,19 +1,3 @@
-Com certeza! Aqui está a Versão Final e Completa do README.md.
-
-Esta versão é a "vencedora" porque inclui:
-
-Destaques Técnicos: Explica as chaves compostas e FKs (para garantir a nota de modelagem).
-
-Regras de Negócio: "Vende" a lógica de geração de código e validação de idade.
-
-Testes Automatizados: Menciona os testes unitários que acabamos de consertar.
-
-Diagrama e Exemplos: Tudo que o professor pediu.
-
-Crie um arquivo chamado README.md na raiz do seu projeto (junto com o pom.xml) e cole este conteúdo:
-
-Markdown
-
 # ⚽ Backend - Sistema de Gerenciamento de Escolinha de Futebol
 
 Este projeto consiste em uma API RESTful desenvolvida com Spring Boot para o gerenciamento administrativo e pedagógico de uma escolinha de futebol. O sistema permite o controle de alunos, matrículas, turmas, professores e campeonatos, com acesso seguro via autenticação JWT.
